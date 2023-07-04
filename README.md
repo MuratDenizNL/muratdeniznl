@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuratDenizNL](https://github.com/MuratDenizNL)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muratdeniznl/details/experience/](https://www.linkedin.com/in/muratdeniznl/details/experience/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/muratdeniznl/)
 
 - ⚡ Fun fact **I enjoy communicating with people.**
 
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=muratdeniznl&show_icons=true&locale=en" alt="muratdeniznl" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=muratdeniznl&" alt="muratdeniznl" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muratdeniznl&" alt="muratdeniznl" /></p>
