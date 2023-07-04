@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **machine learning.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MuratDenizNL](https://github.com/MuratDenizNL)
+- 👨‍💻 All of my projects are available at https://github.com/MuratDenizNL](https://github.com/MuratDenizNL
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muratdeniznl/)
+- 📄 Know about my experiences https://www.linkedin.com/in/muratdeniznl
 
 - ⚡ Fun fact **I enjoy communicating with people.**
 
